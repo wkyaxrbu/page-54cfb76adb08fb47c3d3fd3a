@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b7a7560f09a9cd99b708b351",
+  "owner": "wkyaxrbu",
+  "repo": "page-54cfb76adb08fb47c3d3fd3a",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "54cfb76adb08fb47c3d3fd3a",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0b4a336ccabac66ae227ee605b7ee2374fd41097bc1ec1c04bfe488747cf8819",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供优质的VPN梯子网络加速和机场订阅服务，助您高效畅享全球网络。立即体验专业加速器和客户端下载。",
+          "AI_DESCRIPTION": "44F网络提供优质的VPN梯子网络加速和机场订阅服务，助您高效畅享全球网络。立即体验专业加速器和客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: #f8f5f2;\n            color: #333;\n            line-height: 1.7;\n        }\n        header {\n            background: white;\n            padding: 20px;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        h1, h2 {\n            color: #228B22;\n        }\n        h1 {\n            font-size: 2rem;\n        }\n        h2 {\n            font-size: 1.5rem;\n            margin-top: 2rem;\n        }\n        nav a {\n            color: #228B22;\n            text-decoration: none;\n            margin: 0 15px;\n            font-weight: 500;\n        }\n        section {\n            margin-bottom: 60px;\n        }\n        ul {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            list-style: none;\n            padding: 0;\n        }\n        li {\n            background: white;\n            padding: 25px;\n            border-radius: 12px;\n            box-shadow: 0 4px 8px rgba(0,0,0,0.03);\n            transition: transform 0.3s;\n        }\n        li:hover {\n            transform: translateY(-5px);\n        }\n        details {\n            background: white;\n            border: 1px solid #ddd;\n            border-radius: 12px;\n            margin-bottom: 15px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 20px;\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        summary:hover {\n            background: #f8f5f2;\n        }\n        p {\n            padding: 0 20px 20px;\n        }\n        footer {\n            background: #f0ede6;\n            padding: 40px 20px;\n            text-align: center;\n            color: #666;\n            font-size: 0.9rem;\n        }\n    </style>\n\n\n    <div class=\"container\">\n        <header>\n            <h1>44F网络</h1>\n            <nav>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#plans\">套餐方案</a>\n                <a href=\"#operation\">操作说明</a>\n                <a href=\"#faq\">常见问题</a>\n            </nav>\n        </header>\n        <main>\n            <section id=\"scenarios\">\n                <h2>使用场景</h2>\n                <ul>\n                    <li>解锁基础流媒体平台</li>\n                    <li>支持多台设备同时在线</li>\n                    <li>IPLC专线游戏加速</li>\n                    <li>企业网络定制路由</li>\n                </ul>\n            </section>\n            <section id=\"plans\">\n                <h2>套餐方案</h2>\n                {{PLANS_HTML}}\n            </section>\n            <section id=\"clients\">\n                <h2>合作伙伴</h2>\n                {{CLIENTS_HTML}}\n            </section>\n            <section id=\"operation\">\n                <h2>操作说明</h2>\n                <p>按照以下步骤即可轻松体验44F网络的高速加速服务：</p>\n                <ol>\n                    <li>访问官网选择适合您的套餐并完成支付订阅</li>\n                    <li>下载官方客户端安装到您的设备</li>\n                    <li>在客户端中导入您的订阅信息</li>\n                    <li>选择可用节点连接即可实现网络加速</li>\n                </ol>\n                <p>所有操作均通过官方渠道完成，确保安全稳定。</p>\n            </section>\n            <section id=\"faq\">\n                <h2>常见问题</h2>\n                <details>\n                    <summary>如何获得44F网络的加速节点？</summary>\n                    <p>通过订阅套餐后，客户端会自动为您提供高质量的节点池，选择合适的线路即可。</p>\n                </details>\n                <details>\n                    <summary>44F网络支持哪些订阅方式？</summary>\n                    <p>我们提供灵活的订阅选项，包括月付和年付，帮助您根据需求灵活选择。</p>\n                </details>\n                <details>\n                    <summary>客户端支持哪些设备？</summary>\n                    <p>支持主流的电脑、手机和平板设备，功能完整。</p>\n                </details>\n                <details>\n                    <summary>如何保护上网隐私？</summary>\n                    <p>采用先进的加密技术，确保您的所有网络数据得到保护。</p>\n                </details>\n                <details>\n                    <summary>售后服务包括哪些内容？</summary>\n                    <p>我们提供专业的工单支持和客户经理服务，确保您的使用体验。</p>\n                </details>\n                <details>\n                    <summary>为什么选择44F网络？</summary>\n                    <p>凭借优质的节点和稳定加速能力，44F网络是您可靠的网络加速伙伴。</p>\n                </details>\n            </section>\n        </main>\n        <footer>\n            <p>© 2024 44F网络 版权所有 | 友情链接</p>\n        </footer>\n    </div>\n\n",
+          "hash": "1a5ecdf584157e9f0996ab2cc7ab3d926e4ade93c5d043a93f7b81bc2c609438",
+          "seo": {
+            "title": "44F网络 | 高速VPN加速器 机场订阅 客户端下载",
+            "keywords": "44F网络, VPN加速器, 机场订阅, 客户端下载, 网络加速, 梯子网络",
+            "description": "44F网络提供优质的VPN梯子网络加速和机场订阅服务，助您高效畅享全球网络。立即体验专业加速器和客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sdgkk.cn",
+    "host": "b.sdgkk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "sdgkk.cn",
+      "url": "https://sdgkk.cn/",
+      "label": "YukiMo",
+      "apex": "sdgkk.cn",
+      "kind": null,
+      "identity": "pvrfktq/page-0db4d5ec2ff1d437966951b7"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6366794d091fcd2a41ee05646bbf4d9d29b5fdc5614f41506abee14495bbf898",
+    "sitemap.xml": "8bd8d206eb91c79911d4192615501635ba75c7f12390802380b6094af07317c6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a92a6c906241f5450aa91c091065415d814ec679cb0b6b19547d913775f4dfc7",
+    "robots.txt": "d217f8cc6e88c6412c98de0dc04041ac7fc0bebc08cb98040d4096f3f59157a8",
+    "2c196809b407278e42bf7f706e485029.txt": "2083de365f8608dcce3e266bfd758db72bce165be1eb1659f428381d405391e8"
+  },
+  "revision": "a232c1aa101d140192d88271d8b849a62033ae8d57e4cc0da000a5f3f7e3c607"
+}
